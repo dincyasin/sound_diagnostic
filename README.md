@@ -1,6 +1,6 @@
 # Sound Diagnostic
 
-This repository contains jupyter notebook of the Sound Diagnostic project that I did.
+This repository contains jupyter notebook of the Sound Diagnostic for predict to malfunctions machines project that I did.
 
 ### Algorithm implemented :
 
